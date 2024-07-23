@@ -5,3 +5,4 @@ tqdm
 requests
 json5
 sentencepiece
+openai

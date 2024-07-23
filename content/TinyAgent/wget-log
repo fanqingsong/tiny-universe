@@ -1,0 +1,15 @@
+--2024-07-23 13:21:28--  https://cn.bing.com/search?pc=MOZI
+Resolving cn.bing.com (cn.bing.com)... 202.89.233.101, 202.89.233.100
+Connecting to cn.bing.com (cn.bing.com)|202.89.233.101|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /?scope=web&pc=MOZI [following]
+--2024-07-23 13:21:28--  https://cn.bing.com/?scope=web&pc=MOZI
+Reusing existing connection to cn.bing.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9326 (9.1K) [text/html]
+Saving to: ‘search?pc=MOZI’
+
+search?pc=MOZI                0%[                                         ]       0  --.-KB/s               search?pc=MOZI              100%[========================================>]   9.11K  --.-KB/s    in 0s      
+
+2024-07-23 13:21:28 (113 MB/s) - ‘search?pc=MOZI’ saved [9326/9326]
+
